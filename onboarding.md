@@ -49,7 +49,7 @@ Apart from lesson materials feedback and improvements, we also welcome any feedb
 
 ## As an organization
 
-There is many ways your organization can join or support a workshop: 
+There are many ways your organization can join or support a workshop: 
 
 ```{figure} img/participate_organization.png
 ---
